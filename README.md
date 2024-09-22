@@ -16,3 +16,6 @@ Ternary Operator Syntax: The syntax is condition ? expressionIfTrue : expression
 In this example, it checks if age is 18 or older and assigns "Adult" or "Minor" to isAdult.
 Spread Operator: The ... syntax spreads the elements of the numbers array into a new array.
 In this example, newNumbers contains all elements from numbers, followed by 4, 5, and 6.
+matric no;23/2245
+name;Eterigho emmanuel
+dept;information technology group b
